@@ -80,3 +80,21 @@
     padding: 15px 20px;
     background: #fff;
 }
+.rival{
+    background-color: #EBF1F0;
+}
+.rival .rival-text h2{
+    color: #193532;
+    text-align: center;
+    padding: 70px 0;
+    font-size: 45px;
+    /* margin: 20px 0; */
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.rival .rival-top{
+    color: #193557;
+}
+.rival .rival-top .rrival-top1{
+    float: right;
+    padding: 0px 0;
+}
